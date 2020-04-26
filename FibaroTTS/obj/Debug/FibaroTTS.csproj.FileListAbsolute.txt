@@ -1,0 +1,9 @@
+C:\Users\Matias\Google Drive\Desarrollos\Proyectos\GitLab\TTS\FibaroTTS\FibaroTTS\bin\Debug\FibaroTTS.exe.config
+C:\Users\Matias\Google Drive\Desarrollos\Proyectos\GitLab\TTS\FibaroTTS\FibaroTTS\bin\Debug\FibaroTTS.exe
+C:\Users\Matias\Google Drive\Desarrollos\Proyectos\GitLab\TTS\FibaroTTS\FibaroTTS\bin\Debug\FibaroTTS.pdb
+C:\Users\Matias\Google Drive\Desarrollos\Proyectos\GitLab\TTS\FibaroTTS\FibaroTTS\obj\Debug\FibaroTTS.csprojResolveAssemblyReference.cache
+C:\Users\Matias\Google Drive\Desarrollos\Proyectos\GitLab\TTS\FibaroTTS\FibaroTTS\obj\Debug\FibaroTTS.Form1.resources
+C:\Users\Matias\Google Drive\Desarrollos\Proyectos\GitLab\TTS\FibaroTTS\FibaroTTS\obj\Debug\FibaroTTS.Properties.Resources.resources
+C:\Users\Matias\Google Drive\Desarrollos\Proyectos\GitLab\TTS\FibaroTTS\FibaroTTS\obj\Debug\FibaroTTS.csproj.GenerateResource.Cache
+C:\Users\Matias\Google Drive\Desarrollos\Proyectos\GitLab\TTS\FibaroTTS\FibaroTTS\obj\Debug\FibaroTTS.exe
+C:\Users\Matias\Google Drive\Desarrollos\Proyectos\GitLab\TTS\FibaroTTS\FibaroTTS\obj\Debug\FibaroTTS.pdb
